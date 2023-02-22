@@ -22,12 +22,6 @@ We are trying to predict the net price of the house based on certain criteria
 - pandas 
 -numpy as np
 -sklearn
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@rudraport] - feel free to contact me!
