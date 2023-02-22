@@ -1,7 +1,4 @@
 # house_price_case_study
-house_price_case_study
-
-# Project Name
  analysis of variables using lasso for house price forecast 
 
 
