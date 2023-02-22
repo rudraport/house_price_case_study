@@ -20,8 +20,8 @@ We are trying to predict the net price of the house based on certain criteria
 
 ## Library used 
 - pandas 
--numpy as np
--sklearn
+- numpy
+- sklearn
 
 ## Contact
 Created by [@rudraport] - feel free to contact me!
